@@ -1,9 +1,5 @@
 #============================================================================
 
-#    CS379 – Unit 5 -Submission Node 5– Applied Machine Learning
-
-#    Filename: Unit 5 Submission Node: my-unit5-submission-node5.doc
-
 #    Author: Shelerina N Hawkes Date: September 2, 2021
 
 #    Purpose: Demonstrate Python programming in the Spyder
