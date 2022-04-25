@@ -1,9 +1,5 @@
 #========================================================================
 
-#    CS379 – Unit 1 -Submission Node 1– Introduction to Machine Learning
-
-#    Filename: Unit 1 Submission Node: my-unit1-submission-node1.doc
-
 #    Author: Shelerina N Hawkes Date: August 3, 2021
 
 #    Purpose: Demonstrate Python programming in the Spyder
@@ -104,9 +100,3 @@ run_model(X_train, X_test, y_train, y_test, 2)
 run_model(X_train, X_test, y_train, y_test, 3)
 run_model(X_train, X_test, y_train, y_test, 4)
 run_model(X_train, X_test, y_train, y_test, 5)
-
-
-
-
-
-
