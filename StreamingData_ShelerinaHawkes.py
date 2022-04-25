@@ -1,9 +1,5 @@
 #======================================================================
 
-#    CS367 – Unit3 -Submission Node 3– Streaming Data Analytics
-
-#    Filename: Unit 3 Submission Node: my-unit3-submission-node3.doc
-
 #    Author: Shelerina N Hawkes Date: August 18, 2021
 
 #    Purpose: Demonstrate Python programming in the Spyder
@@ -55,10 +51,10 @@ def run_model(X, num_clusters):
     print(metrics.accuracy_score(y, pred_y))
 
 #Authenticate to Twitter
-auth = tw.OAuthHandler("9OqXinhKcXBeDMm1qnG4bODhA", 
-                            "DhH6kdiglMsxwXeO1AxKIdeRIlSD0SQHcvGx9iQPCCTuUQstSC")
-auth.set_access_token("1429268998961696771-ndv9SU9mm0tTuHO6waEFjibI1u0ZZD", 
-                      "hhr6qBxcWxUGWvQZA2p8krNoSddA7zGdjkHI6AVtRjU8K")
+auth = tw.OAuthHandler("", 
+                       "")
+auth.set_access_token("", 
+                      "")
 
 #Create API object
 api = tw.API(auth, wait_on_rate_limit = True,
